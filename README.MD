@@ -3,9 +3,13 @@
 
 This website was made from a template donwloaded on html5up.net
 
-I have updated most of the anchor tags, changed some of the styl and the profile pictures.
+I have updated most of the anchor tags in HTML, deleted some divs that I did not need, changed some of the CSS styles and the profile pictures.
 
-I have linked my resume as a PDF and made some other minor changes.
+I have linked my resume as a PDF and made some other changes like making the contacts responsible (mail to, tel, github).
+
+Still need to work on the form (formspree.io a try)
+
+And of course having some real work to showcase
 
 
 
